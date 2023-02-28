@@ -1,0 +1,28 @@
+{
+    "accounts": [
+        {
+            "id": 1,
+            "name": "John",
+            "email": "john@gmail.com",
+            "password": "123123123"
+        },
+        {
+            "id": 2,
+            "name": "Diane Hicks",
+            "email": "dianehicks@gmail.com",
+            "password": "nathan1"
+        },
+        {
+            "id": 3,
+            "name": "Leo Watkins",
+            "email": "leowatkins@gmail.com",
+            "password": "hun999"
+        },
+        {
+            "id": 4,
+            "name": "Mike Day",
+            "email": "mikeday@gmail.com",
+            "password": "antoine"
+        }
+    ]
+}
